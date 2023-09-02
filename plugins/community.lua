@@ -20,4 +20,5 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.motion.nvim-surround" },
+  { import = "astrocommunity.git.blame-nvim" },
 }
