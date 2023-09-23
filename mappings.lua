@@ -7,5 +7,7 @@ return {
   n = {
     ["<leader>gl"] = { "<cmd>:ToggleBlame virtual<cr>", desc = "Toggle line blame" },
   },
-  t = {},
+  x = {
+    ["p"] = { '"_dP', desc = "Paste without yank", noremap = true },
+  },
 }
