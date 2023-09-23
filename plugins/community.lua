@@ -21,6 +21,6 @@ return {
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.git.blame-nvim" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
+  -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.completion.cmp-cmdline" },
 }
